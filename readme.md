@@ -3,3 +3,4 @@
 2.不能直接在vue文件中写css，要单独开文件 然后import到vue文件内
 3.如果需要写模拟资料 按vue Options风格写
 4.如果需要使用js特效，单独开一个ts文件，然后import到vue文件内
+5.所有html 必须闭合
